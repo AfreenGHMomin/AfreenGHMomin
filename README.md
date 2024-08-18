@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afreen Momin
 - 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Data Analysis and Big data technologies
 - 💞️ I’m looking to collaborate on Machine Learning and NLP projects
 - 📫 How to reach me ...afr.momin@gmail.com
 
